@@ -1,3 +1,2 @@
 # LeadScoringCaseStudy
 
-##Submitted
